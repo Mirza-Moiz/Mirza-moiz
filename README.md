@@ -14,9 +14,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/moiz11783329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moiz11783329" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mirza moiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mirza moiz" height="30" width="40" /></a>
-<a href="https://fb.com/moiz nadeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moiz nadeem" height="30" width="40" /></a>
-<a href="https://instagram.com/moiz nadeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moiz nadeem" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mirza-moiz-833b83239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mirza-moiz-833b83239" height="30" width="40" /></a>
+<a href="https://fb.com/moiz.nadeem.9235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moiz.nadeem.9235" height="30" width="40" /></a>
+<a href="https://instagram.com/moiznadeeem2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moiznadeeem2" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mirza-moiz&show_icons=true&locale=en" alt="mirza-moiz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirza-moiz&" alt="mirza-moiz" /></p>
-
